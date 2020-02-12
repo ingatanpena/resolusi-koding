@@ -1,4 +1,5 @@
 RENCANA KODING
 -Javascript
+*ES6
 -PHP Framework
 -Java
